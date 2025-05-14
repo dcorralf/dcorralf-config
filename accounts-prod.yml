@@ -1,5 +1,5 @@
 build:
-  version: "4.0"
+  version: "1.0"
 
 accounts:
   message: "Hey, welcome to EazyBank accounts related webhook and David Corral APIs"
